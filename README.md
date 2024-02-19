@@ -1,2 +1,2 @@
-# happymoment
-A online shop for Cakes and Gifts based on Core PHP and MySQL database. It is include shop website and admin panel for sellers.
+# HappyMoment
+An online shop for Cakes and Gifts based on Core PHP and MySQL databases. It includes a shop website and an admin panel for sellers.
